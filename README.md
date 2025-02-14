@@ -1,7 +1,7 @@
 # Lucas Machado
 ## About 
 <b> Hello, world!👋 </b><br>
-<b> I am a 24-year-old student of Systems Analysis and Development, eager to improve my skills and knowledge. I'm looking for an opportunity where I can contribute to the company's success while continuing to learn and grow. </b><br>
+<b> I am a 25-year-old student of Systems Analysis and Development, eager to improve my skills and knowledge. I'm looking for an opportunity where I can contribute to the company's success while continuing to learn and grow. </b><br>
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-machado-a22464319)
